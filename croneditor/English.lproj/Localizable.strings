@@ -1,0 +1,16 @@
+/* Tools */
+
+"Add"="Add Task";
+"Del"="Delete Task";
+"SaveC"="Save Change";
+"UndoC"="Cancel All";
+
+/* Other */
+
+"sendmail"="Send me a Mail";
+"fileNotReadable"="File Not Readable";
+"fileNotReadableDesc"="This File is not readable : %@\nPlease set autorization for this application.";
+"fileNotWritable"="File Not Writable";
+"fileNotWritableDesc"="This File is not Writable : %@\nPlease set autorization for this application.";
+"FileNotFound"="File Not Found";
+"FileNotFoundDesc"="This File is not found : %@";
